@@ -1,0 +1,7 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.default.compilerPath": "c:\\Users\\ASUS\\github-classroom\\engcc304\\lab01-basic-display-input-output-wachilanee\\Lab\\Lab01-Basic-Display-Input-Output.cpp"
+}
